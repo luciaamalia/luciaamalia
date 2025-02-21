@@ -7,7 +7,6 @@
 - Sou desenvolvedora Backend com 2 anos e meio de experiência
 - Estou me especializando em **Spring Framework**, **APIs REST** e **Microsserviços**
 - Tenho experiência com **Java**, **Spring Boot**, **MySQL**, **Docker**, e **Git**
-- Atualmente estudando **arquitetura de microsserviços** e **hexagonal**
 
 
 
@@ -50,8 +49,4 @@
 
 ## 📝 Projetos em Destaque
 
-- **[API de Gestão de E-commerce](https://github.com/luciaamalia/ProductsApi)**: Uma API REST para gerenciamento de produtos, utilizando Spring Boot e MySQL, MongoDB.
-
-- em breve..
-- **[Sistema de Autenticação com JWT](https://github.com/seunome/projeto2)**: Implementação de um sistema de autenticação com JWT para microsserviços em Spring.
-- **[Aplicação de Microsserviços com Docker](https://github.com/seunome/projeto3)**: Projeto demonstrando como configurar microsserviços com Docker 
+- **[API de Gestão de E-commerce](https://github.com/luciaamalia/ProductsApi)**: Uma API REST para gerenciamento de produtos, utilizando Spring Boot e MySQL, MongoDB. 
