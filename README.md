@@ -5,12 +5,12 @@ Me chamo Lúcia e sou desenvolvedora **Backend** com **2 anos e meio** de experi
 
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ## 🚀 Sobre Mim
@@ -30,11 +30,12 @@ Me chamo Lúcia e sou desenvolvedora **Backend** com **2 anos e meio** de experi
 </div>
 
 ## 📈 Minhas Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luciaamalia&show_icons=true&theme=radical)
 
 ## 📝 Projetos em Destaque
 
-- **[API de Gestão de Tarefas](https://github.com/seunome/projeto1)**: Uma API REST para gerenciamento de tarefas, utilizando Spring Boot e MySQL.
+- **[API de Gestão de E-commerce](https://github.com/luciaamalia/ApiProducts)**: Uma API REST para gerenciamento de produtos, utilizando Spring Boot e MySQL, MongoDB.
+
+- em breve..
 - **[Sistema de Autenticação com JWT](https://github.com/seunome/projeto2)**: Implementação de um sistema de autenticação com JWT para microsserviços em Spring.
 - **[Aplicação de Microsserviços com Docker](https://github.com/seunome/projeto3)**: Projeto demonstrando como configurar microsserviços com Docker 
