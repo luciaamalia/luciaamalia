@@ -1,9 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-## *Oie, eu sou a Lúcia* 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFD6D4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Lúcia+Amália;I'm+abackend+developer;I'm+23+years+old;I+from+Brasília-DF;I+formed+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)<br><br>
 
- Seja bem-vindo ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+ 
 - Sou desenvolvedora Backend com 2 anos e meio de experiência
 - Estou me especializando em **Spring Framework**, **APIs REST** e **Microsserviços**
 - Tenho experiência com **Java**, **Spring Boot**, **MySQL**, **Docker**, e **Git**
