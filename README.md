@@ -4,10 +4,10 @@
 ## *Oie, eu sou a Lúcia* 
 
  Seja bem-vindo ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-- 💻 Sou desenvolvedora Backend com 2 anos e meio de experiência
-- 📚 Estou me especializando em **Spring Framework**, **APIs REST** e **Microsserviços**
-- 🔧 Tenho experiência com **Java**, **Spring Boot**, **MySQL**, **Docker**, e **Git**
-- 🌱 Atualmente estudando **arquitetura de microsserviços** e **hexagonal**
+- Sou desenvolvedora Backend com 2 anos e meio de experiência
+- Estou me especializando em **Spring Framework**, **APIs REST** e **Microsserviços**
+- Tenho experiência com **Java**, **Spring Boot**, **MySQL**, **Docker**, e **Git**
+- Atualmente estudando **arquitetura de microsserviços** e **hexagonal**
 
 
 
