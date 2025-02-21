@@ -1,7 +1,6 @@
-# Oi, eu sou a Lúcia
+# *Oii, seja bem vindo ao meu perfil* 😊
 
-Sou desenvolvedora **Backend** com **2 anos** de experiência, especializada em **Spring** e criação de **APIs REST** e **Microsserviços**. Sempre buscando aprender novas tecnologias e aprimorar meus conhecimentos.
-
+Me chamo Lúcia e sou desenvolvedora **Backend** com **2 anos e meio** de experiência, atualmente venho me especializada no **Spring Framework** e na criação de **APIs REST** e **Microsserviços**. Estou sempre envolvida no aprendizado de outras linguagens e me considero alguém curiosa e obstinada 🚀
 ## 💻 Tecnologias que eu uso
 
 <div style="display: inline_block">
