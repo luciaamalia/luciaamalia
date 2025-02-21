@@ -50,7 +50,7 @@
 
 ## 📝 Projetos em Destaque
 
-- **[API de Gestão de E-commerce](https://github.com/luciaamalia/ApiProducts)**: Uma API REST para gerenciamento de produtos, utilizando Spring Boot e MySQL, MongoDB.
+- **[API de Gestão de E-commerce](https://github.com/luciaamalia/ProductsApi)**: Uma API REST para gerenciamento de produtos, utilizando Spring Boot e MySQL, MongoDB.
 
 - em breve..
 - **[Sistema de Autenticação com JWT](https://github.com/seunome/projeto2)**: Implementação de um sistema de autenticação com JWT para microsserviços em Spring.
